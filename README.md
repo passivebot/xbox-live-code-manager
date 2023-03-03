@@ -1,7 +1,7 @@
 # xbox-live-code-manager
 An open-source Python program to store and manage Xbox Game Pass membership codes in an SQLite database. The program uses Tkinter to create a graphical user interface (GUI) to enter and display codes. The program uses an SQLite database to store the codes, allowing the user to delete codes from the database. The program also includes a radio button group to select the code type and the membership length.
 
-<img src="https://i.imgur.com/BlSKsqX.png">
+<img src="https://i.imgur.com/76JWbZO.png">
 
 <img src="https://i.imgur.com/ZcvR71h.png">
 
